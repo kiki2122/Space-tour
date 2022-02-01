@@ -1,0 +1,29 @@
+body{
+    background-image: url('images/crew-bg.jpg');
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.container{
+    margin-right: 0% !important;
+    padding-right: 0% !important;
+}
+
+img{
+    width: 75%;
+}
+
+.row{
+    padding-left: 19%;
+} 
+
+.carousel-indicators button{
+    border-radius: 50%;
+    width: 12px !important;
+    height: 12px !important;
+}
+
+.carousel-indicators{
+    margin-left: -42% !important;
+}
+

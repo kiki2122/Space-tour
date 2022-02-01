@@ -1,0 +1,39 @@
+body{
+    background-image: url('images/tech-bg.jpg');
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.container{
+    margin-right: 0% !important;
+    padding-right: 0% !important;
+}
+
+img{
+    width: 65%;
+}
+
+.spaceport img, .spacecapsule img{
+    margin-top: -15% !important;
+}
+
+.spaceport,.spacecapsule{
+    margin-left: 23.5% !important;
+    margin-top: -18% !important;
+    display: none;
+}
+
+#one{
+    background: white ;
+    color: black;
+}
+
+#one, #two, #three{
+    width: 60%;
+    border-radius: 50%;
+    padding: 13%;
+    text-align: center;
+    cursor: pointer;
+}
+
+

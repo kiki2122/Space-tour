@@ -1,0 +1,37 @@
+body{
+    background-image: url('images/dest-bg.jpg');
+    overflow-x: hidden;
+}
+
+.container{
+    margin-right: 0% !important;
+    padding-right: 0% !important;
+}
+
+.container img{
+    width: 70%;
+}
+
+#nav-moon{
+    border-bottom: 4px solid white;
+}
+
+#nav-moon, #nav-mars, #nav-europa, #nav-titan{
+    cursor: pointer;
+}
+
+.moon{
+    margin-top: -5%;
+}
+
+.moon-desc,.mars-desc{
+    margin-top: 0%;
+}
+
+.mars-desc, .europa-desc, .titan-desc{
+    display: none;
+}
+
+
+
+
